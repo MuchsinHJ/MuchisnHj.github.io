@@ -1,0 +1,30 @@
+
+
+.jumbotron{
+  padding-top: 7rem;
+  background-color: #99a59a;
+}
+
+#project{
+  background-color: #2C3930;
+  color: #ad815e;
+}
+
+.card{
+  cursor: pointer;
+}
+
+section{
+  padding-top: 5rem;
+}
+
+.jumbotron img{
+  cursor: pointer;
+}
+
+.navbar .container a{
+  color: #ad815e;
+}
+.navbar .container a:hover{
+  color: #dfba9c;
+}
